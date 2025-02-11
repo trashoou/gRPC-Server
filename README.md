@@ -19,11 +19,12 @@ Build the project: mvn clean package
 Start the server: java -jar target/grpc-server.jar
 
 Done! Now you can connect to the server and send gRPC requests. 🚀
-
+======================================================================
 gRPC Server – Greetings Service 🎉
 Этот репозиторий содержит реализацию gRPC-сервера с сервисом Greetings. Сервер обрабатывает gRPC-запросы и отправляет приветственные сообщения клиенту.
 
 🔹 Технологии:
+
 Java 17
 gRPC
 Protocol Buffers
